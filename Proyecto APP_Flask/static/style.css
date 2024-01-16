@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    background-color: blue;
+    color: black;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
